@@ -1,0 +1,22 @@
+# Runtime / collected data
+data/
+logs/
+models/
+tub/
+tubs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Secrets / local overrides
+.env
+myconfig.py
